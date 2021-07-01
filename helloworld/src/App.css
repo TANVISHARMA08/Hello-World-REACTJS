@@ -1,0 +1,23 @@
+
+
+
+h1{
+  text-align: center;
+  font-size: xx-large;
+}
+
+.menu{
+display: block;
+margin: 0 auto;
+width: 25%;
+}
+
+img{
+  display: block;
+  width: 65%;
+  cursor: pointer;
+img{
+  display:  block;
+  margin:default;
+  width:  25%;
+}
